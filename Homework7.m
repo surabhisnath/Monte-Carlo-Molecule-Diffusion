@@ -1,4 +1,4 @@
-% IQB HOMEWORK 6
+% IQB HOMEWORK 7
 % Aarushi Agarwal - 2016216
 % Shravika Mittal - 2016093
 % Surabhi S Nath - 2016271
@@ -69,8 +69,8 @@ for bias = 1:3
             count = count + 1;
         end    
     end
-    finalans(bias) = count;
+    finalans(bias) = count/100;
 end
 
 
-plot([1,2,3], finalans);
+plot([0.3,0.35,0.5], finalans);
