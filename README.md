@@ -2,4 +2,4 @@
 
 Homework 6 demostrates random molecule diffusion and Homework 7 demonstrates biased diffusion.
 
-Refer to Homework6.pdf and Homework7.docx for more details
+Refer to Homework6.pdf and Homework7.doc for more details
